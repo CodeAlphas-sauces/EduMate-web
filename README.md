@@ -1,7 +1,12 @@
 # 🚀 EduMate Website Source Code
 
 Visit Sample Website here:
+
 https://edumate-web.vercel.app/
+
+Check the report presentation:
+
+https://github.com/CodeAlphas-sauces/EduMate-web/blob/main/EduMate.pdf
 
 ---
 
