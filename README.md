@@ -30,7 +30,6 @@ This MVP/PoC demonstrates:
 
 ## 🔧 Tech Stack
 
-|--------------|------------------------------------|
 | Layer        | Tools Used                         |
 |--------------|------------------------------------|
 | Frontend     | React.js (MERN Stack)              |
